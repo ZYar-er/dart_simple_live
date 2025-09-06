@@ -1,0 +1,7 @@
+{
+    "version": "1.9.2",
+    "version_num": 10902,
+    "version_desc": "- Android APK compilation setup\n- Build configuration for release",
+    "prerelease": false,
+    "download_url": "https://github.com/ZYar-er/dart_simple_live/releases"
+}
